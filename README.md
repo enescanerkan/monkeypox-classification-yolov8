@@ -25,7 +25,7 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/monkeypox-detection.git
+    git clone https://github.com/enescanerkan/monkeypox_classification_YOLOv8.git
     ```
 
 2. Install the required packages:
