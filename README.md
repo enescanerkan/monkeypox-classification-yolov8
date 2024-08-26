@@ -1,0 +1,1 @@
+# monkeypox_classification_YOLOv8
