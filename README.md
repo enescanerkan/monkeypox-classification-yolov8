@@ -62,6 +62,10 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 
 - **image_processing.py**: Contains helper functions for image preprocessing.  
   *(Görüntü ön işleme için yardımcı fonksiyonları içerir.)*
+## Test Images
+![monkey_pox(6)](https://github.com/user-attachments/assets/7796ccad-ccc3-4da9-9209-ac84514a0e97)
+
+![monkey_pox(5)](https://github.com/user-attachments/assets/40a19634-5d6e-41b1-9562-9b9b26b6b686)
 
 ## Contributing
 Feel free to submit pull requests or issues if you find any bugs or have suggestions for improvements.  
@@ -70,3 +74,7 @@ Feel free to submit pull requests or issues if you find any bugs or have suggest
 ## License
 This project is licensed under the MIT License.  
 *(Bu proje MIT Lisansı altında lisanslanmıştır.)*
+
+
+
+
