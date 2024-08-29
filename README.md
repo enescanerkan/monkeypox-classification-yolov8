@@ -76,7 +76,7 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 ![mpox_46_cam](https://github.com/user-attachments/assets/d9b9c5de-30c1-402a-bcf1-00a1da6ce5fe)
 ![mpox_46_yolo](https://github.com/user-attachments/assets/01bb4e71-5bda-4692-a939-219736ffd324)
 ![mpox_46_original](https://github.com/user-attachments/assets/adaf5b84-d34c-4b57-8937-4b07a89f491a)
-user-attachments/assets/f102e706-b4a1-4602-a977-e77d4b34d2a8)
+
 
 ## Contributing
 Feel free to submit pull requests or issues if you find any bugs or have suggestions for improvements.  
