@@ -69,9 +69,9 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 
 ## Artifical Data Test Images
 
-![mpox_6_cam](https://github.com/user-attachments/assets/4e9af477-b1fa-469e-b993-602f87c109d8)
-![mpox_5_yolo](https://github.com/user-attachments/assets/8d7cb1ea-b546-492f-9f91-760d7c1f5569)
-![mpox_5_original](https://github.com/![mpox_46_cam](https://github.com/user-attachments/assets/c00603b9-f0a1-4e13-a6a7-2db651230968)
+![mpox_18_cam](https://github.com/user-attachments/assets/7ecfab8d-3466-492d-bc7a-145c6b90d02e)
+![mpox_18_yolo](https://github.com/user-attachments/assets/5dabb251-4931-4f49-8558-760442fd11cd)
+![mpox_18_original](https://github.com/user-attachments/assets/5b638516-c9e7-40f3-8331-d683df401092)
 
 ![mpox_46_cam](https://github.com/user-attachments/assets/d9b9c5de-30c1-402a-bcf1-00a1da6ce5fe)
 ![mpox_46_yolo](https://github.com/user-attachments/assets/01bb4e71-5bda-4692-a939-219736ffd324)
