@@ -67,7 +67,7 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 
 ![monkey_pox(5)](https://github.com/user-attachments/assets/40a19634-5d6e-41b1-9562-9b9b26b6b686)
 
-## Artifical Data Test Images
+## Synthetic Data Test Images
 
 <table>
   <tr>
