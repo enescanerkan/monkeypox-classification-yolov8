@@ -69,13 +69,23 @@ This project, named **"Monkeypox Detection,"** focuses on detecting monkeypox le
 
 ## Artifical Data Test Images
 
-![mpox_18_cam](https://github.com/user-attachments/assets/7ecfab8d-3466-492d-bc7a-145c6b90d02e)
-![mpox_18_yolo](https://github.com/user-attachments/assets/5dabb251-4931-4f49-8558-760442fd11cd)
-![mpox_18_original](https://github.com/user-attachments/assets/5b638516-c9e7-40f3-8331-d683df401092)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7ecfab8d-3466-492d-bc7a-145c6b90d02e" alt="mpox_18_cam" width="300">
+      <img src="https://github.com/user-attachments/assets/5dabb251-4931-4f49-8558-760442fd11cd" alt="mpox_18_yolo" width="300">
+      <img src="https://github.com/user-attachments/assets/5b638516-c9e7-40f3-8331-d683df401092" alt="mpox_18_original" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d9b9c5de-30c1-402a-bcf1-00a1da6ce5fe" alt="mpox_46_cam" width="300">
+      <img src="https://github.com/user-attachments/assets/01bb4e71-5bda-4692-a939-219736ffd324" alt="mpox_46_yolo" width="300">
+      <img src="https://github.com/user-attachments/assets/adaf5b84-d34c-4b57-8937-4b07a89f491a" alt="mpox_46_original" width="300">
+    </td>
+  </tr>
+</table>
 
-![mpox_46_cam](https://github.com/user-attachments/assets/d9b9c5de-30c1-402a-bcf1-00a1da6ce5fe)
-![mpox_46_yolo](https://github.com/user-attachments/assets/01bb4e71-5bda-4692-a939-219736ffd324)
-![mpox_46_original](https://github.com/user-attachments/assets/adaf5b84-d34c-4b57-8937-4b07a89f491a)
 
 
 ## Contributing
